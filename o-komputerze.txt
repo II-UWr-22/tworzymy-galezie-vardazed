@@ -1,1 +1,51 @@
 Linux DESKTOP-EDIQULK 5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        7779624 kB
+MemFree:         7361900 kB
+MemAvailable:    7295816 kB
+Buffers:           18412 kB
+Cached:            89572 kB
+SwapCached:            0 kB
+Active:            43192 kB
+Inactive:          93020 kB
+Active(anon):        260 kB
+Inactive(anon):    28576 kB
+Active(file):      42932 kB
+Inactive(file):    64444 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       2097152 kB
+SwapFree:        2097152 kB
+Dirty:                12 kB
+Writeback:            72 kB
+AnonPages:         27660 kB
+Mapped:            23712 kB
+Shmem:               608 kB
+KReclaimable:      22396 kB
+Slab:              55772 kB
+SReclaimable:      22396 kB
+SUnreclaim:        33376 kB
+KernelStack:        3552 kB
+PageTables:          848 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5986964 kB
+Committed_AS:     277796 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       23860 kB
+VmallocChunk:          0 kB
+Percpu:             5696 kB
+AnonHugePages:     10240 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:       19456 kB
+DirectMap2M:     3811328 kB
+DirectMap1G:    12582912 kB
