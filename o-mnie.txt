@@ -1,4 +1,7 @@
 Michał Chawar
 schemat hornera
 Czasopismo
+<<<<<<< HEAD
 niebieski
+=======
+>>>>>>> Rok
